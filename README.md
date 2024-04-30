@@ -1,7 +1,7 @@
 # Big Data Project 3
 _WPI Graduate Course: DS503 - Big Data Management_
 
-In this project, I wrote PySpark code for executing jobs over Spark infrastructure
+In this project, I wrote PySpark code for executing jobs over Spark infrastructure.
 
 I completed the following tasks in this project: 
 
